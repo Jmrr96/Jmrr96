@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jaime and I'm an a App developer, from Soria, Spain</p>
+<p align="left">My name is Jaime and I'm an App developer, from Soria, Spain</p>
 
 ###
 
