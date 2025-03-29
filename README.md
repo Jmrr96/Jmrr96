@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1996<br>📚 I'm currently learning PHP, Python, Django, MySQL<br>🎯 Goals:</p>
+📚 I'm currently learning PHP,Laravel, Python, Django, MySQL, Javascritp, Kotlin<br>🎯 Goals:</p>
 
 ###
 
