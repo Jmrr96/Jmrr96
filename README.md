@@ -10,7 +10,7 @@
 
 ###
 
-📚 I'm currently learning PHP, Laravel, Python, Django, MySQL, Javascritp, Kotlin<br>🎯 Goals:</p>
+📚 I'm currently learning PHP, Laravel, Python, Django, MySQL, Javascritp, Kotlin, Tailwind<br>🎯 Goals:</p>
 
 ###
 
